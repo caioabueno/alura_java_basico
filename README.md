@@ -1,7 +1,7 @@
 # Java, primeiro contato
 *Este é um projeto do curso da plataforma de ensino **Alura***
 
-## Conteúdo implicito abordado no curso:
+## Conteúdo implícito abordado no curso:
 
 * Configuração de ambiente;
 * Introdução à IDE Intellij Community; (debbuguer, criação de projeto, classe, quickfix, idea e afins)
