@@ -23,3 +23,7 @@
   * Leitura de dados;
   * Estrutura de condição;
   * Estrutura de loop;
+
+---
+**Anotações detalhadas** <br>
+https://judicious-visitor-abd.notion.site/Java-primeiro-contato-0e2e0a846ad24c0a96b70f1f9898208c?pvs=74
